@@ -74,3 +74,6 @@ https://github.com/chromiumembedded/cef/commit/206b7b1c95a7624809c18db2622fe7b78
 
 https://chromiumdash.appspot.com/releases?platform=Windows
 https://chromiumdash.appspot.com/releases?platform=Linux
+https://chromiumdash.appspot.com/releases?platform=Mac
+https://chromiumdash.appspot.com/releases?platform=iOS
+
