@@ -1,0 +1,4 @@
+set CEF_USE_GN=1
+set GN_DEFINES=is_official_build=true proprietary_codecs=true ffmpeg_branding=Chrome use_thin_lto=false chrome_pgo_phase=0
+set GN_ARGUMENTS=--ide=vs2022 --winsdk="10.0.20348.0" --sln=cef --filters=//cef/* --enable-decoder='rv10,rv20,rv30,rv40,cook,h263,h263i,mpeg4,msmpeg4v1,msmpeg4v2,msmpeg4v3,amrnb,amrwb,ac3,flv,asv1,asv2,avs,h264,hevc,msmpeg4,mpeg1video,mpeg2video,mpegvideo,wmv1,wmv2,wmv3,aac,opus,pcm_alaw,pcm_mulaw,mp3,mp2,hevc,hdr,dds' --enable-demuxer='rm,mpegvideo,avi,avisynth,h263,h264,aac,amr,ac3,flv,mpegts,mpegtsraw,mpeg2video,mpeg,' --enable-parser='mpegvideo,rv30,rv40,h263,mpeg4video,ac3,avi'
+call cef_create_projects.bat

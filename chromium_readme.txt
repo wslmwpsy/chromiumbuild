@@ -76,4 +76,5 @@ https://chromiumdash.appspot.com/releases?platform=Windows
 https://chromiumdash.appspot.com/releases?platform=Linux
 https://chromiumdash.appspot.com/releases?platform=Mac
 https://chromiumdash.appspot.com/releases?platform=iOS
+https://chromiumdash.appspot.com/releases?platform=Android
 
